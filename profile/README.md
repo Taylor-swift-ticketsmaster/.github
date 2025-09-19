@@ -27,4 +27,4 @@ This project is developed by a group of 3 students as part of the **SUPINFO Infr
 ---
 ⭐ Stay tuned for updates as we scale Taylor Swift’s ticket shop to superstar levels!  
 
-![logo](images/3.png)
+![logo](../images/3.png)
