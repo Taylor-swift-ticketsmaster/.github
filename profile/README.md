@@ -17,9 +17,9 @@ Deliverables include:
 | Resource              | Link                                                                 |
 |-----------------------|----------------------------------------------------------------------|
 | 📂 Main Repository    | [taylorswift-ticketsmaster.git](git@github.com:Taylor-swift-ticketsmaster/taylorswift-ticketsmaster.git) |
-| 📌 Planning Board     | [GitHub Project Board](https://github.com/orgs/Taylor-swift-ticketsmaster/projects/1) |
+| 📌 Project Management     | [GitHub Project Board](https://github.com/orgs/Taylor-swift-ticketsmaster/projects/1) |
 | 🗂 Shared Documents   | [Google Drive Folder](https://drive.google.com/drive/folders/1lUDphk423uE9zWebhxkd6D3GfTLpQd16?usp=sharing) |
-| 💬 Communication Hub  | [Discord Server](https://discord.gg/FHuGa67hXP) |
+| 💬 Discord  | [Discord Server](https://discord.gg/FHuGa67hXP) |
 
 ## 👥 Team
 This project is developed by a group of 3 students as part of the **SUPINFO Infrastructure & Cloud module (2025)**.
